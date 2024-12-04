@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emsui/static/css/main.924d690c.css",
+    "main.js": "/emsui/static/js/main.6426918f.js",
+    "static/js/453.63c4db86.chunk.js": "/emsui/static/js/453.63c4db86.chunk.js",
+    "index.html": "/emsui/index.html",
+    "main.924d690c.css.map": "/emsui/static/css/main.924d690c.css.map",
+    "main.6426918f.js.map": "/emsui/static/js/main.6426918f.js.map",
+    "453.63c4db86.chunk.js.map": "/emsui/static/js/453.63c4db86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.924d690c.css",
+    "static/js/main.6426918f.js"
+  ]
+}
